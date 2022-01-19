@@ -48,4 +48,3 @@ function generateBombs(){
 }
 addGrid();
 generateBombs();
-console.log(bombs);
